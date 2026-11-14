@@ -18,7 +18,7 @@
   </odeResource>
   <odeResource>
     <key>exe_version</key>
-    <value>4.0.6</value>
+    <value>4.0.5</value>
   </odeResource>
 </odeResources>
 <odeProperties>
@@ -48,7 +48,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_exelearning_version</key>
-    <value>v4.0.6</value>
+    <value>v4.0.5</value>
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
@@ -81,14 +81,6 @@
   <odeProperty>
     <key>pp_globalFont</key>
     <value>default</value>
-  </odeProperty>
-  <odeProperty>
-    <key>pp_passScore</key>
-    <value>5</value>
-  </odeProperty>
-  <odeProperty>
-    <key>pp_passScoreEveryActivity</key>
-    <value>false</value>
   </odeProperty>
 </odeProperties>
 <odeNavStructures>
@@ -168,6 +160,18 @@
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1794684810500-mo1r5gncd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><iframe width=\"800\" height=\"640\" style=\"width: 100%; max-width: 800px; border: 0; border-radius: 8px;\" src=\"https://www.things-workshop.com/embed/light-bulb/\" title=\"How does a light bulb work?: interactive model from Things Workshop\" loading=\"lazy\" allowfullscreen=\"allowfullscreen\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
