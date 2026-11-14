@@ -52,7 +52,7 @@
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1794684120743</value>
+    <value>1794684567349</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -95,12 +95,12 @@
 <odeNavStructure>
   <odePageId>5db6e5c0-c3c4-441f-84e4-5adc13a7cc7c</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>Página nueva</pageName>
+  <pageName>Inicio</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Página nueva</value>
+      <value>Inicio</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -124,13 +124,13 @@
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value></value>
+      <value>Inicio</value>
     </odeNavStructureProperty>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
       <odePageId>5db6e5c0-c3c4-441f-84e4-5adc13a7cc7c</odePageId>
-      <odeBlockId>block-mwgsm63c-uo7b99119</odeBlockId>
+      <odeBlockId>block-mwgszyfa-5tl03r081</odeBlockId>
       <blockName>Texto</blockName>
       <iconName></iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
@@ -159,13 +159,13 @@
       <odeComponents>
         <odeComponent>
           <odePageId>5db6e5c0-c3c4-441f-84e4-5adc13a7cc7c</odePageId>
-          <odeBlockId>block-mwgsm63c-uo7b99119</odeBlockId>
-          <odeIdeviceId>idevice-1794684167255-75desid64</odeIdeviceId>
+          <odeBlockId>block-mwgszyfa-5tl03r081</odeBlockId>
+          <odeIdeviceId>idevice-1794684810500-mo1r5gncd</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><iframe width="800" height="640" style="width: 100%; max-width: 800px; border: 0; border-radius: 8px;" src="https://www.things-workshop.com/embed/light-bulb/" title="How does a light bulb work?: interactive model from Things Workshop" loading="lazy" allowfullscreen="allowfullscreen"></iframe></p>
+    <p style="text-align: center;"><iframe width="800" height="640" style="width: 100%; max-width: 800px; border: 0; border-radius: 8px;" src="https://www.things-workshop.com/embed/light-bulb/" title="How does a light bulb work?: interactive model from Things Workshop" loading="lazy" allowfullscreen="allowfullscreen"></iframe></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794684167255-75desid64","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"800\" height=\"640\" style=\"width: 100%; max-width: 800px; border: 0; border-radius: 8px;\" src=\"https://www.things-workshop.com/embed/light-bulb/\" title=\"How does a light bulb work?: interactive model from Things Workshop\" loading=\"lazy\" allowfullscreen=\"allowfullscreen\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1794684810500-mo1r5gncd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><iframe width=\"800\" height=\"640\" style=\"width: 100%; max-width: 800px; border: 0; border-radius: 8px;\" src=\"https://www.things-workshop.com/embed/light-bulb/\" title=\"How does a light bulb work?: interactive model from Things Workshop\" loading=\"lazy\" allowfullscreen=\"allowfullscreen\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
